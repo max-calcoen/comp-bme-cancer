@@ -1,4 +1,4 @@
-# 25F Computational BME (BME 2315) public archive: Alzheimer's Disease metadata statistical analysis
+# 25F Computational BME (BME 2315) public archive: Cancer RNA-Seq machine learning classification
 
 ## all BME 2315 projects:
 
